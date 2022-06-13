@@ -8,4 +8,4 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: (https://telegram.me/stefikuuuuus)</code>
-<code>📫 stb3002@gmail.com(mailto:stb3002@gmail.com)</code>
+<code>📫 stb3002@gmail.com</code>
